@@ -1,2 +1,2 @@
 # hello-world
-First repo. Idea + other things...
+Heyo. This is my first repo. I'm an aspiring web developer from South Africa. 
